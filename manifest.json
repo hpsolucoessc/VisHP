@@ -7,16 +7,5 @@
   "theme_color": "#2563eb",
   "orientation": "portrait",
   "lang": "pt-BR",
-  "icons": [
-    {
-      "src": "https://www.pwabuilder.com/assets/images/icon_512.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "https://www.pwabuilder.com/assets/images/icon_512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+  "description": "Aplicativo de gestão de visitas técnicas, orçamentos e checklist para escolas."
 }

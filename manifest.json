@@ -7,17 +7,5 @@
   "theme_color": "#2563eb",
   "orientation": "portrait",
   "lang": "pt-BR",
-  "description": "Aplicativo de gestão de visitas técnicas, orçamentos e checklist para escolas.",
-  "icons": [
-    {
-      "src": "/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+  "description": "Aplicativo de gestão de visitas técnicas, orçamentos e checklist para escolas."
 }
